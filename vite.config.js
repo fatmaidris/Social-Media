@@ -16,6 +16,6 @@ const githubPagesFallback = {
 };
 
 export default defineConfig({
-  base: "/social-media-project/",
+  base: "/Social-Media/",
   plugins: [react(), githubPagesFallback],
 });
